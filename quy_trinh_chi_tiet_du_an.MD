@@ -20,11 +20,11 @@
 ## 2.2 KE HOACH KY THUAT
 | Mục | Nội dung |  |  |  |
 | --- | --- | --- | --- | --- |
-| Frontend | Next.js + TailwindCSS + TypeScript |  |  |  |
-| Backend | Node.js/Express hoặc Spring Boot (Java) |  |  |  |
-| Database | PostgreSQL, Redis (caching tiến độ) |  |  |  |
-| AI | OpenAI GPT API, có thể huấn luyện custom |  |  |  |
-| Lưu trữ ảnh | Firebase Storage, S3 |  |  |  |
+| Frontend | React + CSS + JS + HTML |  |  |  |
+| Backend | Spring Boot (Java) |  |  |  |
+| Database | MySQL, Redis (caching tiến độ) |  |  |  |
+| AI | Google Studio AI, có thể huấn luyện custom |  |  |  |
+| Lưu trữ ảnh | Firebase Storage|  |  |  |
 | Realtime | Socket.IO (Node) hoặc WebSocket (Spring) |  |  |  |
 | Hosting | Frontend: Vercel – Backend: Render/AWS |  |  |  |
 
