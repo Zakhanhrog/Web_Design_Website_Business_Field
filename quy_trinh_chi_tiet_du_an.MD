@@ -14,7 +14,7 @@
 | Mua vật liệu | Tìm kiếm sản phẩm, phân loại, giỏ hàng, đặt hàng, liên kết với kho | Frontend + Backend |  |  |
 | Gói xây dựng | Chọn gói, yêu cầu tư vấn, nhận file thiết kế, theo dõi tiến độ | Backend |  |  |
 | Tiến độ công trình | Kỹ sư cập nhật ảnh, ghi chú, tiến độ, khách hàng xem theo thời gian thực | Backend |  |  |
-| Đánh giá ẩn danh | Cho phép khách đăng bài, đánh giá dịch vụ nhưng ẩn tên | Frontend + Backend |  |  |
+| Đánh giá ẩn danh | Cho phép khách đăng bài, đánh giá dịch vụ nhưng ẩn thông tin, ngoại trừ tên | Frontend + Backend |  |  |
 | Tài khoản/Đăng nhập | Khách, Admin, Thiết kế & Thi công, Quản trị viên | Backend |  |  |
 
 ## 2.2 KE HOACH KY THUAT
