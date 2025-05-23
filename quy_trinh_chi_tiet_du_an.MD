@@ -16,6 +16,7 @@
 | Tiến độ công trình | Kỹ sư cập nhật ảnh, ghi chú, tiến độ, khách hàng xem theo thời gian thực | Backend |  |  |
 | Đánh giá ẩn danh | Cho phép khách đăng bài, đánh giá dịch vụ nhưng ẩn thông tin, ngoại trừ tên | Frontend + Backend |  |  |
 | Tài khoản/Đăng nhập | Khách, Admin, Thiết kế & Thi công, Quản trị viên | Backend |  |  |
+| Liên hệ | Quản lí liên hệ của khách hàng | Backend |  |  |
 
 ## 2.2 KE HOACH KY THUAT
 | Mục | Nội dung |  |  |  |
